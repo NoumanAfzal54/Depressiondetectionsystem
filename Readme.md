@@ -1,6 +1,6 @@
 # 🧠 Depression Detection via Audio-Video Fusion (Gradio GUI | Colab Ready)
 
-[![Hugging Face Spaces](Live Demo)](https://huggingface.co/spaces/nouman54/Depression)
+[[Hugging Face Spaces](Live Demo)](https://huggingface.co/spaces/nouman54/Depression)
 
 This project detects signs of depression using combined **audio** and **visual** features extracted from video files. It leverages a pre-trained **DenseNet201** deep learning model, audio feature extraction via **Librosa**, frame processing with **OpenCV**, and an interactive **Gradio** interface.
 
