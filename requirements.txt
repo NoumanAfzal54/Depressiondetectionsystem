@@ -1,0 +1,7 @@
+tensorflow
+numpy
+librosa
+opencv-python
+joblib
+moviepy
+gradio
