@@ -4,6 +4,7 @@
 
 This project detects signs of depression using combined **audio** and **visual** features extracted from video files. It leverages a pre-trained **DenseNet201** deep learning model, audio feature extraction via **Librosa**, frame processing with **OpenCV**, and an interactive **Gradio** interface.
 
+
 ---
 
 ## 🚀 Features
@@ -72,3 +73,5 @@ This tool is for **research and educational purposes only**.
 🚀 Hugging Face: [DepressionDetection App](https://huggingface.co/spaces/nouman54/Depression)
 
 ---
+
+<img width="1673" height="702" alt="Screenshot 2025-07-14 015634" src="https://github.com/user-attachments/assets/9c1f3c2f-04c7-4fc5-8ec3-3c78d3f1d004" />
